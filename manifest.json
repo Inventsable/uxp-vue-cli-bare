@@ -1,0 +1,23 @@
+{
+  "id": "243fb4a6",
+  "name": "TestVueCli",
+  "version": "1.0.0",
+  "description": "Description of your plugin.",
+  "summary": "Summary of your plugin",
+  "languages": [
+    "en"
+  ],
+  "author": "Your Name",
+  "helpUrl": "https://mywebsite.com/help",
+  "host": {
+    "app": "XD",
+    "minVersion": "13.0"
+  },
+  "uiEntryPoints": [
+    {
+      "type": "panel",
+      "label": "XD Test",
+      "panelId": "main"
+    }
+  ]
+}
